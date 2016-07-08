@@ -1,4 +1,3 @@
-# tip-calculator
-# tips
+#Demo
 
 ![](./tips.gif)
