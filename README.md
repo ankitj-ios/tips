@@ -1,3 +1,6 @@
+#Introduction
+  - Tip Calculator App.
+  
 #CheckList
 
   - [x] Did you implement both the TipViewController and the SettingsViewController?
